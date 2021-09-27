@@ -1,12 +1,22 @@
 ---
 layout: home
-title: Welcome
+title:
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+
 ---
+
+The Re:Source Project (R:SC) is a browser extension, research project, and (growing) open data community.
+
+By pairing investigative research with open data about labor issues and corporate social responsibility (CSR) statements, R:SC aims to help users cut through corporate jargon, combat corporate disinformation, and make informed decisions.
+
+<h1>Wikimedia Unlock Program</h1>
+
+<h1>Sign Up for updates</h1>
+
+<h1>Other References</h1>
+
+"___" csv,CONF 2021
+
+"___" MozFest 2021
