@@ -30,10 +30,10 @@ We will be presenting an MVP version of our project at Wikimedia's UNLOCK Accele
 <section>
 <a href="mailto:resourceproject@protonmail.com">resourceproject@protonmail.com</a><br/>
 
-Anne Lee Steele (<a href="twitter.com/aleesteele">@aleesteele</a>)<br/>
+Anne Lee Steele (<a href="www.twitter.com/aleesteele">@aleesteele</a>)<br/>
 
-Miriam Matthiessen (<a href="twitter.com/miriammthsn">@miriammthsn</a>)
+Miriam Matthiessen (<a href="www.twitter.com/miriammthsn">@miriammthsn</a>)
 <br/><br/></section>
 
 <h2>Supported by</h2>
-This project is supported by the Wikimedia Deutschland's <a href="https://www.wikimedia.de/unlock/">Unlock Accelerator</a>.
+This project is supported by Wikimedia Deutschland's <a href="https://www.wikimedia.de/unlock/">Unlock Accelerator</a>.
