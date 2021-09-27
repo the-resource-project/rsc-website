@@ -1,3 +1,5 @@
-# Jekyll Netlify Boilerplate
+# The Re:Source Project Website
 
-<small>This project is maintained by <a href="https://www.danurbanowicz.com" rel="noopener">Dan Urbanowicz</a>. View the repo on <a href="https://github.com/danurbanowicz/jekyll-netlify-boilerplate" rel="noopener">Github</a></small>
+Basic website with information about browser extension.
+
+<small>Uses the <a href="https://github.com/danurbanowicz/jekyll-netlify-boilerplate" rel="noopener">danurbanowicz jekyll boilerplate</a></small>
