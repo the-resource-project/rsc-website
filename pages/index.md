@@ -29,10 +29,7 @@ We will be presenting an MVP version of our project at Wikimedia's UNLOCK Accele
 
 <section>
 <a href="mailto:resourceproject@protonmail.com">resourceproject@protonmail.com</a><br/>
-
-Anne Lee Steele (<a href="https://twitter.com/aleesteele">@aleesteele</a>)<br/>
-
-Miriam Matthiessen (<a href="https://twitter.com/miriammthsn">@miriammthsn</a>)
+<a href="https://twitter.com/theresourceproj">@theresourceproj</a>
 <br/><br/></section>
 
 <h2>Supported by</h2>
