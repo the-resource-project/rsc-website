@@ -19,7 +19,7 @@ By pairing investigative research with open data about labor issues and corporat
 
 <section>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AykkFlUAKU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><br/>
+<br/>
 </section>
 
 <h2>Sign up for updates</h2>
