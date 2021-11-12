@@ -18,8 +18,9 @@ By pairing investigative research with open data about labor issues and corporat
 <h2>Presentation</h2>
 
 <section>
-We will be presenting an MVP version of our project at Wikimedia's UNLOCK Accelerator Demo Day on October 6, at 4:00pm – 5:30pm CEST. <a href="https://www.wikimedia.de/unlock/">Tune in here</a> to watch our presentation.
-<br/><br/></section>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AykkFlUAKU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><br/>
+</section>
 
 <h2>Sign up for updates</h2>
 
